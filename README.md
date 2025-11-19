@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hazem</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
-- 📚 I’m currently studying in faculty of engineering
-
-- 🌱 I’m currently learning **React-Flutter**
-
-- 📫 How to reach me **hazembarakat012@gmail.com**
+- 📚 Currently studying at the Faculty of Engineering
+- 🌱 Currently learning **React & Flutter**
+- 💻 Building clean and responsive web & mobile apps
+- 📫 Reach me at **hazembarakat012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
